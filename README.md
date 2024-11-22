@@ -25,7 +25,7 @@
     <img alt="JS" src="./img/javascript.png">
   </a>
 </p>
-</br>
+
 
 #### Tools I use;
 <a href="https://git-scm.com/">
@@ -34,7 +34,7 @@
 <a href="https://code.visualstudio.com/">
   <img alt="vscode" src="./img/vscode.png">
 </a>
-</br>
+
 
 #### Things I want to learn;
 <p>
@@ -54,7 +54,7 @@
     <img height=48 alt="c#" src="./img/c-sharp.png">
   </a>
 </p>
-</br>
+
 
 ---
 
