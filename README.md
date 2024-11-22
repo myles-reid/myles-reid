@@ -37,21 +37,23 @@
 </br>
 
 #### Things I want to learn;
-<a href="https://react.dev">
-  <img alt="react" src="./img/react.png">
-</a>
-<a href="whttps://www.w3schools.com/python/">
-  <img alt="python" src="./img/python.png">
-</a>
-<a href="whttps://www.w3schools.com/js/">
-  <img alt="java" src="./img/java.png">
-</a>
-<a href="whttps://www.w3schools.com/cpp/">
-  <img height=48 alt="cpp" src="./img/c-.png">
-</a>
-<a href="whttps://www.w3schools.com/cs/">
-  <img height=48 alt="c#" src="./img/c-sharp.png">
-</a>
+<p>
+  <a href="https://react.dev">
+    <img alt="react" src="./img/react.png">
+  </a>
+  <a href="whttps://www.w3schools.com/python/">
+    <img alt="python" src="./img/python.png">
+  </a>
+  <a href="whttps://www.w3schools.com/js/">
+    <img alt="java" src="./img/java.png">
+  </a>
+  <a href="whttps://www.w3schools.com/cpp/">
+    <img height=48 alt="cpp" src="./img/c-.png">
+  </a>
+  <a href="whttps://www.w3schools.com/cs/">
+    <img height=48 alt="c#" src="./img/c-sharp.png">
+  </a>
+</p>
 </br>
 
 ---
