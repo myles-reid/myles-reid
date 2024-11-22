@@ -27,6 +27,7 @@
 </p>
 
 
+
 #### Tools I use;
 <a href="https://git-scm.com/">
   <img alt="git" src="./img/git.png">
@@ -34,6 +35,7 @@
 <a href="https://code.visualstudio.com/">
   <img alt="vscode" src="./img/vscode.png">
 </a>
+
 
 #### Things I want to learn;
 <p>
@@ -53,6 +55,7 @@
     <img height=48 alt="c#" src="./img/c-sharp.png">
   </a>
 </p>
+
 
 
 ---
