@@ -25,7 +25,7 @@
     <img alt="JS" src="./img/javascript.png">
   </a>
 </p>
-</br>
+
 
 #### Tools I use;
 <a href="https://git-scm.com/">
@@ -34,7 +34,6 @@
 <a href="https://code.visualstudio.com/">
   <img alt="vscode" src="./img/vscode.png">
 </a>
-</br>
 
 #### Things I want to learn;
 <p>
@@ -54,14 +53,18 @@
     <img height=48 alt="c#" src="./img/c-sharp.png">
   </a>
 </p>
-</br>
+
 
 ---
 
 #### Little more about me;
 
+- :cat: I have two cats :cat:
+- :fork_and_knife: I love food :fork_and_knife:
+- :game_die: I am a game fiend :video_game:
+- :musical_note: I know how to play music :notes:
 
-
+---
 
 ### Now Playing 🎧
 
