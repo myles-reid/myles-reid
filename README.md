@@ -36,10 +36,10 @@ writeHelloWord(console.log);
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=myles-reid&theme=slateorange">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=myles-reid&theme=slateorange">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=compact">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=compact">
 </a>
 
 
