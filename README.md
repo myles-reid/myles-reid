@@ -1,25 +1,4 @@
-```
-function writeHelloWorld (outputMethod) {
-  let h = String.fromCharCode(104);
-  let e = String.fromCharCode(101);  
-  let l = String.fromCharCode(108);
-  let d = String.fromCharCode(100);
-  let o = String.fromCharCode(111);
-  let w = String.fromCharCode(119);
-  let r = String.fromCharCode(114);
-  let space = String.fromCharCode(160);
-  let no_space = '';
-  let myArr = [d,l,r,o,w,space,o,l,l,e,h];
-  let myArrNow = myArr.reverse();
-  let string = myArrNow.join(no_space);
-  let stringArray = string.split(space);
-  outputMethod(stringArray.shift());
-  outputMethod(space);
-  outputMethod(stringArray.shift());
-}
-
-writeHelloWord(console.log);
-```
+[![Hello world](./img/hello_world.png)]
 ---
 
 ---
@@ -36,10 +15,10 @@ writeHelloWord(console.log);
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=myles-reid&theme=slateorange">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=myles-reid&theme=slateorange">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=compact">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=compact">
 </a>
 
 
