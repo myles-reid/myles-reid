@@ -1,8 +1,60 @@
 ![Hello world](./img/hello_world.png)
 ---
+## Greetings all, I'm Myles! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
+
+#### Get in touch;
+<a href="mailto:myles@reidsmailbox.com">
+  <img alt="email" src="./img/email.png">
+</a>
+<a href="www.linkedin.com/in/myles-reid-68ab5b323">
+  <img alt="linkedin" src="./img/linkedin.png">
+</a>
 
 ---
 
+#### Languages I know;
+
+<a href="https://www.w3.org/html/">
+  <img alt="HTML5" src="./img/html.png">
+</a>
+<a href="whttps://www.w3schools.com/css/">
+  <img alt="CSS3" src="./img/css.png">
+</a>
+<a href="whttps://www.w3schools.com/js/">
+  <img alt="JS" src="./img/javascript.png">
+</a>
+</br>
+
+#### Tools I use;
+<a href="https://git-scm.com/">
+  <img alt="git" src="./img/git.png">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img alt="vscode" src="./img/vscode.png">
+</a>
+</br>
+
+#### Things I want to learn;
+<a href="https://react.dev">
+  <img alt="react" src="./img/react.png">
+</a>
+<a href="whttps://www.w3schools.com/python/">
+  <img alt="python" src="./img/python.png">
+</a>
+<a href="whttps://www.w3schools.com/js/">
+  <img alt="java" src="./img/java.png">
+</a>
+<a href="whttps://www.w3schools.com/cpp/">
+  <img height=48 alt="cpp" src="./img/c-.png">
+</a>
+<a href="whttps://www.w3schools.com/cs/">
+  <img height=48 alt="c#" src="./img/c-sharp.png">
+</a>
+</br>
+
+---
+
+#### Little more about me;
 
 
 
@@ -21,12 +73,6 @@
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=compact">
 </a>
 
-
-
-
-
-
-
-<!-- [![Myles' GitHub stats](https://github-readme-stats.vercel.app/api?username=myles-reid&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myles-reid&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
+---
+<p style="font-size: 12px;">Icons by <a href="https://icons8.com/">icons8</a></p>
+<p style="font-size: 12px;"> Some Coding icons created by <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Freepik - Flaticon</a></p>
