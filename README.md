@@ -1,4 +1,4 @@
-[![Hello world](./img/hello_world.png)]
+![Hello world](./img/hello_world.png)
 ---
 
 ---
