@@ -14,15 +14,17 @@
 
 #### Languages I know;
 
-<a href="https://www.w3.org/html/">
-  <img alt="HTML5" src="./img/html.png">
-</a>
-<a href="whttps://www.w3schools.com/css/">
-  <img alt="CSS3" src="./img/css.png">
-</a>
-<a href="whttps://www.w3schools.com/js/">
-  <img alt="JS" src="./img/javascript.png">
-</a>
+<p>
+  <a href="https://www.w3.org/html/">
+    <img alt="HTML5" src="./img/html.png">
+  </a>
+  <a href="whttps://www.w3schools.com/css/">
+    <img alt="CSS3" src="./img/css.png">
+  </a>
+  <a href="whttps://www.w3schools.com/js/">
+    <img alt="JS" src="./img/javascript.png">
+  </a>
+</p>
 </br>
 
 #### Tools I use;
