@@ -2,14 +2,6 @@
 ---
 ## Greetings all, I'm Myles! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
 
-#### Get in touch;
-<a href="mailto:myles@reidsmailbox.com">
-  <img alt="email" src="./img/email.png">
-</a>
-<a href="www.linkedin.com/in/myles-reid-68ab5b323">
-  <img alt="linkedin" src="./img/linkedin.png">
-</a>
-
 ---
 
 #### Languages I know;
@@ -56,7 +48,15 @@
   </a>
 </p>
 
+---
 
+#### Get in touch;
+<a href="mailto:myles@reidsmailbox.com">
+  <img alt="email" src="./img/email.png">
+</a>
+<a href="www.linkedin.com/in/myles-reid-68ab5b323">
+  <img alt="linkedin" src="./img/linkedin.png">
+</a>
 
 ---
 
