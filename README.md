@@ -31,7 +31,7 @@
   <img alt="vscode" src="./img/vscode.png">
 </a>
 <a href="https://visualstudio.microsoft.com/#vs-section">
-  <img alt="Visual Studio" src="./img/visual-studio.png">
+  <img height=48 alt="Visual Studio" src="./img/visual-studio.png">
 </a>
 
 
