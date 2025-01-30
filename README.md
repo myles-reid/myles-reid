@@ -16,6 +16,9 @@
   <a href="whttps://www.w3schools.com/js/">
     <img alt="JS" src="./img/javascript.png">
   </a>
+  <a href="whttps://www.w3schools.com/cs/">
+    <img height=48 alt="c#" src="./img/c-sharp.png">
+  </a>
 </p>
 
 
@@ -42,9 +45,6 @@
   </a>
   <a href="whttps://www.w3schools.com/cpp/">
     <img height=48 alt="cpp" src="./img/c-.png">
-  </a>
-  <a href="whttps://www.w3schools.com/cs/">
-    <img height=48 alt="c#" src="./img/c-sharp.png">
   </a>
 </p>
 
