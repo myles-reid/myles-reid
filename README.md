@@ -30,6 +30,9 @@
 <a href="https://code.visualstudio.com/">
   <img alt="vscode" src="./img/vscode.png">
 </a>
+<a href="https://visualstudio.microsoft.com/#vs-section">
+  <img alt="Visual Studio" src="./img/visual-studio.png">
+</a>
 
 
 #### Things I want to learn;
