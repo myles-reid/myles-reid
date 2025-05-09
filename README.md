@@ -33,6 +33,9 @@
 <a href="https://visualstudio.microsoft.com/#vs-section">
   <img height=48 alt="Visual Studio" src="./img/visual-studio.png">
 </a>
+<a href="https://www.figma.com">
+  <img height=48 alt="Figma" src="./img/figma.png">
+</a>
 
 
 #### Things I want to learn;
